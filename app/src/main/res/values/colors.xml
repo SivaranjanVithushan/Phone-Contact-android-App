@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#0288D1</color>       <!-- Primary color: Light Blue -->
+    <color name="primaryLightColor">#B3E5FC</color>  <!-- Primary light color: Light Blue -->
+    <color name="primaryDarkColor">#0277BD</color>   <!-- Primary dark color: Dark Blue -->
+
+    <!-- Accent Colors -->
+    <color name="accentColor">#FF5722</color>        <!-- Accent color: Deep Orange -->
+    <color name="accentDarkColor">#E64A19</color>    <!-- Accent dark color: Dark Orange -->
+
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>            <!-- Black -->
+    <color name="white">#FFFFFFFF</color>            <!-- White -->
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">#F5F5F5</color>    <!-- Background color: Light Gray -->
+    <color name="surfaceColor">#FFFFFF</color>       <!-- Surface color: White -->
+
+    <!-- Text Colors -->
+    <color name="textPrimaryColor">#212121</color>   <!-- Primary text color: Dark Gray -->
+    <color name="textSecondaryColor">#757575</color> <!-- Secondary text color: Medium Gray -->
+
+    <!-- Divider Color -->
+    <color name="dividerColor">#BDBDBD</color>       <!-- Divider color: Light Gray -->
+
+    <!-- Button Colors -->
+    <color name="buttonColor">#0288D1</color>        <!-- Button color: Light Blue -->
+    <color name="buttonTextColor">#FFFFFF</color>    <!-- Button text color: White -->
+
+    <!-- Error Colors -->
+    <color name="errorColor">#B00020</color>         <!-- Error color: Red -->
+    
+    <color name="purple_500"></color>
+</resources>
